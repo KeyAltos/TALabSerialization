@@ -1,0 +1,5 @@
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskSerialization\HomeTaskSerialization\bin\Debug\HomeTaskSerialization.exe.config
+C:\Users\Valery_Kapatsevich@epam.com\Documents\Visual Studio 2015\Projects\HomeTaskSerialization\HomeTaskSerialization\bin\Debug\HomeTaskSerialization.exe
+C:\Users\Valery_Kapatsevich@epam.com\Documents\Visual Studio 2015\Projects\HomeTaskSerialization\HomeTaskSerialization\bin\Debug\HomeTaskSerialization.pdb
+C:\Users\Valery_Kapatsevich@epam.com\Documents\Visual Studio 2015\Projects\HomeTaskSerialization\HomeTaskSerialization\obj\Debug\HomeTaskSerialization.exe
+C:\Users\Valery_Kapatsevich@epam.com\Documents\Visual Studio 2015\Projects\HomeTaskSerialization\HomeTaskSerialization\obj\Debug\HomeTaskSerialization.pdb
