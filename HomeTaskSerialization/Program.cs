@@ -23,8 +23,7 @@ namespace HomeTaskSerialization
             using (FileStream fs = new FileStream(fileNameSrc, FileMode.OpenOrCreate))
             {
                 catalogFromDeserelization = (Catalog)serializer.Deserialize(fs);                
-            }
-            Console.ReadLine();
+            }            
             #endregion
 
             #region serializing
@@ -42,6 +41,10 @@ namespace HomeTaskSerialization
             {
                 serializer.Serialize(stream, catalogFromDeserelization, nameSpaces);
             }
+            Console.WriteLine("Serialization succesfully finished.");
+            Console.WriteLine("Source file: {0}",fileNameSrc);
+            Console.WriteLine("Destination file: {0}", fileNameDest);
+            Console.ReadLine();
             #endregion
         }
     }
